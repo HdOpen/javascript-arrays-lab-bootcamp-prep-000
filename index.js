@@ -1,4 +1,4 @@
 var kittens = ["Milo","Otis","Garfield"]; //define your array here
-function destructivelyAppendKitten(){
-  return (kittens + Ralph);
+function destructivelyAppendKitten(Ralph){
+  return (kittens);
 }
